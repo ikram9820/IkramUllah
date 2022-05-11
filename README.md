@@ -2,7 +2,7 @@
 
 <h3 align="center">I love to code in Python and JavaScript.</h3>
 
-- 🌱 I’m currently focusing on **web development with Django and React**
+<h6 align='center'>- 🌱 I’m currently focusing on **web development with Django and React** </h6>
 
 <h3 align="left">Languages and Tools:</h3>
 
